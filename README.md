@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Mariam Badeji 👋
 
-<!--
-**Mariam-Badeji/Mariam-Badeji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Data Analyst** | 📊 Power BI Enthusiast | 🧩 Data Storyteller
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about data, and I love transforming raw numbers into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- 🎓 Currently learning and growing in the field of Data Analytics
+- 📊 Skilled in Power BI, DAX, SQL, and Data Visualization
+- ✍️ Sharing my projects and documenting my learning journey
+- ✈️ Exploring insights in flight performance data!
+
+---
+
+## 🛠️ Tools & Technologies
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
+
+---
+
+## 📂 Featured Projects
+
+### ✈️ [Flight Performance Analysis](https://github.com/Mariam-Badeji/Flight-Performance-Analysis)
+> Analysing flight data to uncover trends and insights related to delays, peak seasons, and airline performance.
+
+![Flight Dashboard](Flight-Dashboard.png) <!-- Use your actual image name -->
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/mariam-badeji-ab08671b2/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://your-portfolio-link.com)
+
+---
+
+## ✨ GitHub Stats
+
+![Mariam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mariam-Badeji&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mariam-Badeji&layout=compact&theme=default)
+
+---
+
+Thank you for visiting! 🌟
