@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm passionate about data, and I love transforming
 ### ✈️ [Flight Performance Analysis](https://github.com/Mariam-Badeji/Flight-Performance-Analysis)
 > Analysing flight data to uncover trends and insights related to delays, peak seasons, and airline performance.
 
-![Flight Dashboard](Flight-Dashboard.png) <!-- Use your actual image name -->
+![Flight Dashboard](https://github.com/Mariam-Badeji/Fight-Performance-Analysis/blob/da93f8fb30d5b708b2e67ca6a6f2ad5a537a8d69/Airline%20Github%20Upload/Airport%20Dashboard%201.png) <!-- Use your actual image name -->
 
 ---
 
