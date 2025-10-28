@@ -1,6 +1,6 @@
 # Hi there, I'm Mariam Badeji 👋
 
-🚀 **Aspiring Data Analyst** | 📊 Power BI Enthusiast | 🧩 Data Storyteller
+🚀 **Data Analyst** | Finance | Economics | 📊 Power BI Enthusiast | 🧩 Data Storyteller
 
 Welcome to my GitHub profile! I'm passionate about data, and I love transforming raw numbers into meaningful insights.
 
